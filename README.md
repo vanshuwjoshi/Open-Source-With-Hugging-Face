@@ -1,6 +1,6 @@
 # Open-Source Models with HuggingFace
 
-Welcome to my repository for the DeepLearning.AI course on (Open-Source Models using HuggingFace)[https://www.deeplearning.ai/short-courses/open-source-models-hugging-face/]! This repository contains various projects I've completed, including conversational models, translation, summarization, and sentence embedding using sentence transformers.
+Welcome to my repository for the DeepLearning.AI course on [Open-Source Models using HuggingFace](https://www.deeplearning.ai/short-courses/open-source-models-hugging-face/)! This repository contains various projects I've completed, including conversational models, translation, summarization, and sentence embedding using sentence transformers.
 
 ## Projects
 
